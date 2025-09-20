@@ -350,10 +350,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Project Homepage**: [GitHub Repository](https://github.com/yourusername/esp32-face-door-lock)
-- **Issues**: [Bug Reports](https://github.com/yourusername/esp32-face-door-lock/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/esp32-face-door-lock/discussions)
-- **Email**: project@yourdomain.com
+- **Project Homepage**: [GitHub Repository](https://github.com/qzdevz/esp32-face-door-lock)
+- **Issues**: [Bug Reports](https://github.com/qzdevz/esp32-face-door-lock/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/qzdevz/esp32-face-door-lock/discussions)
+- **Email**: mahardikaputr47@gmail.com
 
 ---
 
